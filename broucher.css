@@ -49,6 +49,7 @@ nav {
     justify-content: flex-end;
     width: 100vw;
     height: 90px;
+    text-decoration: none;
 }
 
 .head{
@@ -83,7 +84,10 @@ nav {
 .nav-link:last-child {
     margin-right: 30px; /* Ensure the last link doesn’t have extra margin */
 }
-
+.a{
+    text-decoration: none;
+    color: black;
+}
 
 .nav-link:hover {
     color: #ccc;
